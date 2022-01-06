@@ -1,4 +1,4 @@
-# Car registration BackEND with NodeJS and Amazon AWS service
+# Back-end app for car registration with nodejs and amazon AWS
 
 **RF**
 
